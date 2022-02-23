@@ -1,0 +1,20 @@
+@import url()
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+body{
+	height: 100vh;
+	width: 100%;
+	background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
+}
+.wrapper{
+	margin: 120px auto;
+	max-width: 400px;
+	width: 100%;
+	background: #fff;
+	border-radius: 5px;
+	padding: 25px;
+}
